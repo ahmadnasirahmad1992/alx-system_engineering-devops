@@ -1,2 +1,1 @@
-#!/bin/bash shell basics folder readme
-
+1-listit
