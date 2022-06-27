@@ -1,1 +1,0 @@
-0X02-shell_redirections_readme
