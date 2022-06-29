@@ -1,2 +1,0 @@
-#!/bin/basg
- printf "%x\n" $DECIMAL 
